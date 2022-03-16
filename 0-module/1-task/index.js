@@ -3,4 +3,4 @@ function sum(m, n)  {
 };
 
 let result = sum(1, 1); 
-alert( result ); // 2
+
