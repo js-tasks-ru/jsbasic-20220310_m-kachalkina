@@ -1,7 +1,4 @@
 function getMinMax(str) {
-<<<<<<< HEAD
-  
-=======
   let strings = str.split(' ');
 
   let nums = strings
@@ -23,5 +20,5 @@ function getMinMax(str) {
   let min = nums[0];
 
   return { min, max };
->>>>>>> 421a9b4adcccd923babe0b7b37386cd36c2bc65e
+
 }
