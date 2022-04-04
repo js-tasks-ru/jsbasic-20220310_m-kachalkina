@@ -20,4 +20,5 @@ function getMinMax(str) {
   let min = nums[0];
 
   return { min, max };
+
 }
